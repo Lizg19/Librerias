@@ -22,6 +22,6 @@ pseudocódigo (programa c++), adicional a ello realice todo el algoritmo con fun
 3. En almacenes SUPERMAXI se desea crear un programa que almacene la siguiente información de
 n productos que están por llegar de varias provincias de un solo proveedor. El proceso de lectura
 de datos de los productos terminará cuando se introduzca un asterisco (*) Al finalizar los datos se
-deben almacenar en el archivo “productos” y se mostrará lo siguiente:
+deben almacenar en el archivo “productos”.
 
 -----LOS TRES EJERCICIOS IMPLEMENTADOS EN UN MENU----
