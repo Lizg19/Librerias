@@ -1,0 +1,12 @@
+***** DATOS DEL PROVEEDOR *******
+Codigo		Nombre		Ciudad		Telefono
+ABC523		Favorita	Quito		0936284461
+
+***** DATOS DEL PRODUCTO *******
+Nombre		Precio		Cantidad	Estado
+aceite		1.45		8		bueno
+arroz		1.6		7		bueno
+maiz		1.58		9		bueno
+Numero de productos adquiridos: 3
+Cantidad de prodcutos adquiridos: 24
+El valor total: 37.02

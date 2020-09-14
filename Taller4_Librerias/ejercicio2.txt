@@ -1,0 +1,3 @@
+Arreglo antes:  3 6 1 9
+Arreglo despues:  1 3 6 9
+Elemento encontrado en la posicion: 2

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1600040753 source:c:\users\acer\desktop\liz\taller4_librerias\main.cpp
+	<iostream>
+	"ejercicio_1.h"
+	"ejercicio_2.h"
+	"ejercicio_3.h"
+
+1600040394 c:\users\acer\desktop\liz\taller4_librerias\ejercicio_1.h
+	<iostream>
+	<fstream>
+	<ctime>
+
+1600040394 c:\users\acer\desktop\liz\taller4_librerias\ejercicio_2.h
+	<iostream>
+	<fstream>
+	<ctime>
+
+1600041155 c:\users\acer\desktop\liz\taller4_librerias\ejercicio_3.h
+	<iostream>
+	<fstream>
+
