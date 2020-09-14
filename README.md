@@ -1,9 +1,9 @@
 # Librerias - TALLER 4 AED
-//1. Realice un algoritmo para ingresar una cantidad de x elementos (0 al 99) aleatorios a un vector,
-//para posterior a ello determinar cuál es el mayor, menor y cuantas veces se repite el elemento y
-/estos resultados deben estar almacenados en un archivo llamado ejercicio1.
-//Importante para la solución a este problema, el algoritmo debe representarlo por medio de un
-//pseudocódigo (programa c++), adicional a ello realice todo el algoritmo con funciones. 
+1. Realice un algoritmo para ingresar una cantidad de x elementos (0 al 99) aleatorios a un vector,
+para posterior a ello determinar cuál es el mayor, menor y cuantas veces se repite el elemento y
+estos resultados deben estar almacenados en un archivo llamado ejercicio1.
+Importante para la solución a este problema, el algoritmo debe representarlo por medio de un
+pseudocódigo (programa c++), adicional a ello realice todo el algoritmo con funciones. 
 
 2. Realice un algoritmo para ingresar una cantidad x de números tanto positivos como negativos en
 un vector posterior a ello realizar lo siguiente:
@@ -23,3 +23,5 @@ pseudocódigo (programa c++), adicional a ello realice todo el algoritmo con fun
 n productos que están por llegar de varias provincias de un solo proveedor. El proceso de lectura
 de datos de los productos terminará cuando se introduzca un asterisco (*) Al finalizar los datos se
 deben almacenar en el archivo “productos” y se mostrará lo siguiente:
+
+-----LOS TRES EJERCICIOS IMPLEMENTADOS EN UN MENU----
